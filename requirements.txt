@@ -1,0 +1,14 @@
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5
+statsmodels>=0.14
+ipython>=9.0
+streamlit
+openai
+dotenv
+# Opcional
+matplotlib>=3.9
+seaborn>=0.13
+shap>=0.48
+jupyter>=1.1
+notebook>=7.0
